@@ -1,0 +1,53 @@
+
+.Design{
+     
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background-image: url("./design.jpg");
+    font-family: Arial, sans-serif;
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+width: 100%; height: 120vh;
+
+
+}
+.ins{
+  margin-top: -325px;
+ margin-left: auto;
+text-align: center;
+
+}
+.abc{
+  margin-top: 70px;
+  margin-bottom: 0px;
+  margin-left: 800px;
+text-align: center;
+}
+
+.def{
+  text-align: center;
+  margin-top: -318px;
+  margin-left: 32%;
+
+}
+.ccc{
+  
+ margin-left: auto;
+text-align: center;
+}
+
+h4{
+    color: rgb(136, 255, 0);
+}
+
+.Core{
+  margin-left: 40%;
+}
+.las{
+    margin-left: 800px;
+    margin-top: 0px;
+    text-align: center;
+}
